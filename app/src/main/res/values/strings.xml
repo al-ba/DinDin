@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DinDin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price_format">%1$.0f USD</string>
+    <string name="added_food">added</string>
+    <string name="submit">submit</string>
+    <string name="order_list_item_price">%1$.0f USD</string>
+    <string name="order_total_value">Value: %1$.0f usd</string>
+</resources>
